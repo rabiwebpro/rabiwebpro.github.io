@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Node-related (optional)
+node_modules/
+dist/
+
+# Log files
+*.log
+
+# Environment files
+.env
+
